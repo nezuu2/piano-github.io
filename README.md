@@ -3,7 +3,7 @@
 <!-- # Short Description -->
 
 このサイトはピアノを再現したサイトです。<br>
-このサイトのリンク：https://nezuu2.github.io/Y.U.I-github.io/
+このサイトのリンク：https://nezuu2.github.io/piano-github.io/.
 
 <!-- # Badges -->
 
